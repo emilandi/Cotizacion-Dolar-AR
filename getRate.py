@@ -6,7 +6,7 @@ from datetime import datetime
 system('cls')
 
 #obtener fecha y hora
-now = datetime.now().strftime("%Y/%m/%d ~ %H:%M:%S")
+now = datetime.now().strftime("%Y/%m/%d - %H:%M:%S")
 
 #titulo
 print('')
