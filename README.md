@@ -1,2 +1,2 @@
 # Cotizacion Dolar AR
- Cotizacion Dolar Argentina
+ Consulta con Python la cotizacion oficial del Dolar en Argentina
